@@ -10,7 +10,7 @@ GeoManager = GeographyManager(country_chosen)
 #Criação da tela do jogo
 screen = turtle.Screen()
 screen.title("Country States")
-if country_chosen == "Usa":
+if country_chosen == "Usa" or country_chosen == "Eua":
     img_path = "public/img/blank_states_img.gif"
 elif country_chosen == "Brasil":
     img_path = "public/img/Brazil_states.gif"
@@ -24,11 +24,12 @@ turtle.shape(img_path)
 GAME_IS_ON = True
 corrected_states = 0
 
-USER_PROMPT = "Type a state name that you remember:\nType Exit to leave"
-TITLE_INPUT = f"Corrected States: {corrected_states}/50"
+
 
 #Managing the game
 while GAME_IS_ON:
+    USER_PROMPT = "Type a state name that you remember:\nType Exit to leave"
+    TITLE_INPUT = f"Corrected States: {corrected_states}/50"
     states_guessed_write = []
     answer_state = screen.textinput(title=TITLE_INPUT, prompt=USER_PROMPT)
     answer_state = answer_state.title()
