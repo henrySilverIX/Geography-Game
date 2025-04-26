@@ -1,28 +1,28 @@
-state,x,y
-Acre,-273,52
-Alagoas,295,54
-Amapá,30,186
-Amazonas,-190,124
-Bahia,200,28
-Ceará,240,114
-Distrito Federal,100,-12
-Espírito Santo,223,-58
-Goiás,65,-28
-Maranhão,142,114
-Mato Grosso,-43,24
-Mato Grosso Do Sul,-22,-65
-Minas Gerais,149,-36
-Pará,15,122
-Paraíba,307,85
-Paraná,26,-114
-Pernambuco,296,67
-Piauí,179,84
-Rio De Janeiro,187,-90
-Rio Grande Do Norte,305,105
-Rio Grande Do Sul,8,-185
-Rondônia,-174,48
-Roraima,-131,197
-Santa Catarina,49,-145
-São Paulo,79,-91
-Sergipe,275,45
-Tocantins,89,55
+state_name_pt,state_name_en,x,y
+Acre,Acre,-273,52
+Alagoas,Alagoas,295,54
+Amapá,Amapa,30,186
+Amazonas,Amazonas,-190,124
+Bahia,Bahia,200,28
+Ceará,Ceara,240,114
+Distrito Federal,Distrito Federal,100,-12
+Espírito Santo,Espirito Santo,223,-58
+Goiás,Goias,65,-28
+Maranhão,Maranhao,142,114
+Mato Grosso,Mato Grosso,-43,24
+Mato Grosso do Sul,Mato Grosso do Sul,-22,-65
+Minas Gerais,Minas Gerais,149,-36
+Pará,Para,15,122
+Paraíba,Paraiba,307,85
+Paraná,Parana,26,-114
+Pernambuco,Pernambuco,296,67
+Piauí,Piaui,179,84
+Rio de Janeiro,Rio de Janeiro,187,-90
+Rio Grande do Norte,Rio Grande do Norte,305,105
+Rio Grande do Sul,Rio Grande do Sul,8,-185
+Rondônia,Rondonia,-174,48
+Roraima,Roraima,-131,197
+Santa Catarina,Santa Catarina,49,-145
+São Paulo,Sao Paulo,79,-91
+Sergipe,Sergipe,275,45
+Tocantins,Tocantins,89,55
